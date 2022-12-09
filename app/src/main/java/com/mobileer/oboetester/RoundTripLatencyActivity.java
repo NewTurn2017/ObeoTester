@@ -21,7 +21,7 @@ import static com.mobileer.oboetester.IntentBasedTestSupport.configureStreamsFro
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import android.text.method.ScrollingMovementMethod;
 import android.view.View;
 import android.widget.Button;
